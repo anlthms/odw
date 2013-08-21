@@ -1,6 +1,4 @@
 /*
- * For a description of what this program does, check
- * the forum posts at http://www.kaggle.com/c/DarkWorlds
  *
  * To use this program, copy it to Test_Skies/odw.cpp and
  * run the following command:
